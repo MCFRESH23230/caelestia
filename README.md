@@ -60,7 +60,7 @@ Use `caelestia update` to perform a full system update and update the dots.
 ## Configuring
 
 > [!CAUTION]
-> You should never modify any files inside `~/.config/hypr/`, as this will cause conflicts during updates to the dots.
+> You should never modify any files inside `~/.config/hypr/`, as this will cause conflicts duinsring updates to the dots.
 >
 > Any personal changes should be made in `~/.config/caelestia/hypr-user.lua` or `hypr-vars.lua`, as
 > the installation/update workflows never modify these files. Writing your own changes to files in `~/.config/hypr/`
